@@ -10915,6 +10915,7 @@ Scroll To Top style
   }
 }
 .feature-block .inner-box {
+  height: 300px;
   position: relative;
   padding: 59px 56px;
   border-radius: 20px;
@@ -10922,8 +10923,8 @@ Scroll To Top style
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-  background-color: var(--theme-color-light);
-  background-image: url(../images/icons/feature-bg.png);
+  background-color: var(--theme-color2);
+  /* background-image: url(../images/icons/testi-bg.png); */
   -webkit-transition: all 300ms ease;
   transition: all 300ms ease;
   z-index: 3;
