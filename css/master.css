@@ -2463,7 +2463,7 @@ Scroll To Top style
 .shape-twenty {
   width: 100%;
   height: 100%;
-  background-image: url(../images/icons/shape-twenty.png);
+  /* background-image: url(../images/icons/shape-twenty.png); */
 }
 
 .shape-twentyone {
@@ -10923,7 +10923,7 @@ Scroll To Top style
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-  background-color: var(--theme-color2);
+  background: linear-gradient(to right, #2676BB, #F482A8, #CF3D84);
   /* background-image: url(../images/icons/testi-bg.png); */
   -webkit-transition: all 300ms ease;
   transition: all 300ms ease;
